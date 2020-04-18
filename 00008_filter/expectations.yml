@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: filtrar
+  inspection: Not:HasUsage:filter
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: filtrar
+  inspection: HasUsage:foldr

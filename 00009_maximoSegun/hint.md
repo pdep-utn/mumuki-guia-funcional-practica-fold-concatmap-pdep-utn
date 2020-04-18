@@ -1,0 +1,1 @@
+Hacerte una funcion auxiliar `mayorSegun` podría ser útil :smile:
