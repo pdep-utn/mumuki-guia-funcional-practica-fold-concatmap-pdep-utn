@@ -1,1 +1,1 @@
-Además del foldr se pueden usar las funciones (!!) y length
+Además del foldr se pueden usar las funcion zip
