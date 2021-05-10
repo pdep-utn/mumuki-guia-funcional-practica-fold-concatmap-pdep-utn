@@ -1,1 +1,1 @@
-Además del foldr se pueden usar las funcion zip
+Además de `foldr` se puede usar la funcion `zip`
